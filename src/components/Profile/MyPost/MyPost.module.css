@@ -1,0 +1,8 @@
+.content{
+    grid-area: con;
+    background-color: rgba(10, 1, 1, 0.329);
+  }
+  
+  .img{
+    width: 100%;
+  }
