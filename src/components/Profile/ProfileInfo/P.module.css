@@ -1,0 +1,9 @@
+.wrapper {
+  .img {
+    width: 100%;
+  }
+
+  .descriptionBlock {
+    color: red;
+  }
+}
